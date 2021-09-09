@@ -16,6 +16,7 @@ It can do the following tasks
 2) Add single and recurrent events
     ![image](https://user-images.githubusercontent.com/17432146/132607143-31fdb408-f47e-46bb-8d9f-63e4cb94a251.png)
 3) Export to excel
+
    ![image](https://user-images.githubusercontent.com/17432146/132607230-21caadc5-0721-468c-bd33-df5e032357cd.png)
 
 
