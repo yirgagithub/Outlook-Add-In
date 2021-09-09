@@ -2,7 +2,7 @@
 This is outlook calendar add-in done using VSTO
 There are a lot of thing that can be done differently(better UI, adding validation, adding more exception handling mechanism, and logging).
 
-To run this application first you have to Office/SharePoint development to visual studio and  microsoft outlook and excel installed( V > 2013) in you machine.
+To run this application first you have to add Office/SharePoint development to visual studio and  microsoft outlook and excel installed( V > 2013) in your machine.
 
 **N.B** close outlook application before running this application
 
